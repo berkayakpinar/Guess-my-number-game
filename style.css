@@ -68,4 +68,10 @@ html {
   html {
     font-size: 50%;
   }
+  .game-title {
+    line-height: 7rem;
+  }
+  .response-text {
+    font-size: 1.5rem;
+  }
 }
